@@ -3,7 +3,7 @@
 # 💫 About Me
 - 🌱 Currently learning **Web Development** and **AWS**  
 - 🧠 Interested in the intersection between **technology and politics**  
-- 💻 Experience in **data analysis**, **operating systems**, and **mobile software development** using **Flutter**
+- 💻 Experience in **data analysis**, **operating systems**, and **software development**
 
 
 # 💻Tech Stack
