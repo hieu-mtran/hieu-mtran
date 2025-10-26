@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💫 About Me
-- 🎓 Third-year undergrad student at Denison University, double majoring in **Computer Science** and **Politics & Public Affairs**
+- 🎓 Fourth-year undergrad student at Denison University, double majoring in **Computer Science** and **Politics & Public Affairs**
 - 🌱 Currently learning **Web Development** and **AWS**  
 - 🧠 Interested in the intersection between **technology and politics**  
 - 💻 Experience in **data analysis**, **operating systems**, and **software development**
