@@ -2,7 +2,6 @@
 
 ## 💫 About Me
 - 🎓 Fourth-year undergrad student at Denison University, double majoring in **Computer Science** and **Politics & Public Affairs**
-- 🌱 Currently learning **Web Development** and **AWS**  
 - 🧠 Interested in the intersection between **technology and politics**  
 - 💻 Experience in **data analysis**, **operating systems**, and **software development**
 
@@ -21,6 +20,13 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=flat&logo=react&logoColor=61DAFB)
+![GIS](https://img.shields.io/badge/GIS-2C7A3F.svg?style=flat&logo=qgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632.svg?style=flat&logo=qgis&logoColor=white)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-000000.svg?style=flat&logo=json&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=flat&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat&logo=cloudflare&logoColor=white)
 
 
 <!--
