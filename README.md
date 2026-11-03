@@ -5,6 +5,17 @@
 - 🧠 Interested in the intersection between **technology and politics**  
 - 💻 Experience in **data analysis**, **operating systems**, and **software development**
 
+## 🚀 Featured Project
+
+### Bellwether: Election Tracker
+
+An election-tracking app I independently designed, built, and launched on the App Store (Google Play Store coming soon).
+
+- 🗺️ Interactive election maps, live results, polls, and historical data
+- 🛠️ Built end-to-end with React Native, TypeScript, Supabase, and Cloudflare
+- 📱 200+ active users
+
+**[View on the App Store](https://apps.apple.com/us/app/bellwether-election-tracker/id6815121176)**
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
